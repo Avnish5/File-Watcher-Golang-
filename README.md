@@ -50,10 +50,6 @@ When a file is created, modified, or deleted, the application sends a notificati
 - Modify files in the specified directory to see real-time updates on the web page.
 - Refresh the page to establish a new connection to the server and continue receiving updates.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Golang for its powerful concurrency model.
