@@ -23,13 +23,16 @@ This project implements a file watcher algorithm in Go. The application monitors
 1. Clone the repository:
 
    ```bash
-   cd file-watcher
+
+   git clone https://github.com/Avnish5/File-Watcher-Golang-.git
+
+   
 
 
 2. Navigate to the project directory::
 
    ```bash
-   git clone https://github.com/Avnish5/File-Watcher-Golang-.git
+   cd file-watcher
 
 
 3. Run the application::
