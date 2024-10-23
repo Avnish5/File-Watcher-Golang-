@@ -26,9 +26,6 @@ This project implements a file watcher algorithm in Go. The application monitors
 
    git clone https://github.com/Avnish5/File-Watcher-Golang-.git
 
-   
-
-
 2. Navigate to the project directory::
 
    ```bash
